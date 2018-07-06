@@ -17,7 +17,7 @@ const StepExampleOrdered = () => (
       </Step.Content>
     </Step>
 
-    <Step active>
+    <Step complete>
       <Step.Content>
         <Step.Title>Confirm Order</Step.Title>
       </Step.Content>
